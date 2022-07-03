@@ -1,2 +1,2 @@
 # Automated-Bascule-Bridge-IOT-System
-###I did this project as the leader of a 4 membered team (3 members and me) to fulfill the 4 credit integrated design project during the second semester of the 3rd year of the Electronic Engineering Bachelor program. I didn't mention the names of my colleagues to protect their privacy, nevertheless, their contributions are very well acknowledged and appreciated.
+### I did this project as the leader of a 4 membered team (3 members and me) to fulfill the 4 credit integrated design project during the second semester of the 3rd year of the Electronic Engineering Bachelor program. I didn't mention the names of my colleagues to protect their privacy, nevertheless, their contributions are very well acknowledged and appreciated.
